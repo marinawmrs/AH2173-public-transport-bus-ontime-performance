@@ -9,7 +9,7 @@ import requests
 import time
 from datetime import datetime
 
-API_KEY = "MU9iNpeHD7rrSv8InKxLd2Ooflp-nCQFl5oVGjYA6lY"
+API_KEY = "..."
 TMP_DIR = "./tmp"
 STATIC_DATA_DIR = f"{TMP_DIR}/static_data"
 TRIP_UPDATES_DIR = f"{TMP_DIR}/trip_updates"
